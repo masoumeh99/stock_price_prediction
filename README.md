@@ -1,1 +1,1 @@
-# stock_price_prediction
+# Google stock price prediction using Bidirectional LSTM
